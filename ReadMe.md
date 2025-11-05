@@ -8,7 +8,7 @@
 
 This research project explores the relationship between emotional sentiment and financial market behavior, with a particular focus on retail investor activity. As retail investors now constitute approximately one-third of market activity (World Economic Forum), understanding the emotional drivers behind their investment decisions has become increasingly important for predicting market movements.
 
-The project leverages natural language processing (NLP) to analyze emotions expressed in retail investor discussions on Reddit. Using Google's GoEmotions model, we classified text into 27 distinct emotional categories (spanning positive, negative, and ambiguous emotions), with each emotion assigned a probability score from 0 to 1. This fine-grained emotional analysis goes far beyond traditional positive/negative sentiment analysis, enabling us to identify nuanced patterns that precede significant market events.
+The project leverages natural language processing (NLP) to analyze emotions expressed in retail investor discussions on Reddit. Using Google's GoEmotions model, I classified text into 27 distinct emotional categories (spanning positive, negative, and ambiguous emotions), with each emotion assigned a probability score from 0 to 1. This fine-grained emotional analysis goes far beyond traditional positive/negative sentiment analysis, enabling us to identify nuanced patterns that precede significant market events.
 
 ---
 
@@ -48,7 +48,7 @@ This established relationship between emotions and investment behavior forms the
 
 ### Silicon Valley Bank (SVB) Collapse - March 2023
 
-We developed a Fear Index to track banking sector anxiety in the weeks leading up to the Silicon Valley Bank collapse. Our analysis revealed that **emotional fear signals spiked 3-7 days before the actual crash**, providing an early warning window.
+I developed a Fear Index to track banking sector anxiety in the weeks leading up to the Silicon Valley Bank collapse. My analysis revealed that **emotional fear signals spiked 3-7 days before the actual crash**, providing an early warning window.
 
 ![Fear Index - Two Weeks Before SVB Collapse](SVB_Crash.png)*Fear Index tracking from February 23 to March 9, 2023. Note the critical spike on March 8 (marked in orange) - one day before the stock crash (marked in dark red) - exceeding the +2σ threshold.*
 
@@ -63,7 +63,7 @@ We developed a Fear Index to track banking sector anxiety in the weeks leading u
 
 ## Distinguishing Market Noise from True Signals
 
-A critical challenge in emotional analysis is **differentiating between temporary sentiment swings and genuine crisis signals**. Our research identified specific patterns that separate routine fluctuations from systemic failures:
+A critical challenge in emotional analysis is **differentiating between temporary sentiment swings and genuine crisis signals**. My research identified specific patterns that separate routine fluctuations from systemic failures:
 
 ### Normal Market Swings:
 - Brief, isolated emotional spikes that return to baseline quickly
