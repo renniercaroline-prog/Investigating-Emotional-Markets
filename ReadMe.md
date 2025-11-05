@@ -82,8 +82,7 @@ A critical challenge in emotional analysis is **differentiating between temporar
 
 Our analysis identified which specific emotions correlate with different types of market movements:
 
-*Img
-*Left: Emotions correlated with stock direction. Right: Emotions correlated with market volatility.*
+![Fear Index - Two Weeks Before SVB Collapse](Emotion_Categories.png)*Left: Emotions correlated with stock direction. Right: Emotions correlated with market volatility.*
 
 ### Stock Direction Predictions:
 
