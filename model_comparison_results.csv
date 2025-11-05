@@ -1,0 +1,4 @@
+Model,RMSE,R²,Dir_Accuracy
+Baseline (No Emotions),0.11475763447342693,-0.11019034496955982,55.6%
+With Emotions,0.11770418476346366,-0.16793340049116479,55.6%
+Improvement,-2.6%,-52.4%,+0.0pp
