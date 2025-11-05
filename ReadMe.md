@@ -50,8 +50,7 @@ This established relationship between emotions and investment behavior forms the
 
 We developed a Fear Index to track banking sector anxiety in the weeks leading up to the Silicon Valley Bank collapse. Our analysis revealed that **emotional fear signals spiked 3-7 days before the actual crash**, providing an early warning window.
 
-*img
-*Fear Index tracking from February 23 to March 9, 2023. Note the critical spike on March 8 (marked in orange) - one day before the stock crash (marked in dark red) - exceeding the +2σ threshold.*
+![Fear Index - Two Weeks Before SVB Collapse](SVB_Crash.png)*Fear Index tracking from February 23 to March 9, 2023. Note the critical spike on March 8 (marked in orange) - one day before the stock crash (marked in dark red) - exceeding the +2σ threshold.*
 
 #### Timeline of Events:
 - **March 8:** Fear index breaches critical +2σ threshold at 0.053 probability
